@@ -2,7 +2,7 @@
   "name": "blogging-website",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build dist/index.html"
+    "build": "parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
